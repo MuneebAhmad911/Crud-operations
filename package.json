@@ -1,0 +1,16 @@
+{
+  "name": "mongoconnect",
+  "module": "index.js",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.12.2",
+    "nodemon": "^3.1.9"
+  }
+}
